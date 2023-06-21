@@ -1,0 +1,17 @@
+body{
+    background-color:ivory;
+}
+
+.mainbody{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fcolor{
+    color: darkslategrey;
+    font-weight: bold;
+}
+
+.scolor{
+    color:rgb(39, 39, 138);
+    font-weight: bold;
+}
